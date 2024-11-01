@@ -62,7 +62,7 @@ class Test:
     def stac_m2():
         print(Test.stac_emp)
 
-
+h
 t = Test()
 t.display()
 t.cls_m1()
